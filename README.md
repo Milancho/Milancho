@@ -1,18 +1,18 @@
-### Hi there, I'm Milancho Arsovski! 👋 
+## Hi there, I'm Milancho Arsovski! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=milanch&color=blue)</div>
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/milanchoarsovski/)
-![](https://komarev.com/ghpvc/?username=milancho&style=for-the-badge)
 
 ### Glad to see you here! 
 Love interacting with the community, share knowledge and learn new things.
 
-### **I'm a Software Engineer.**
+## **I'm a Software Engineer | Team Lead **
 
 - 🏢 I currently work at Aspekt.
-- 🔭 I’m currently working on ASP.NET Core
-- 💬 Ask me about" .Net, SQL, RESTful APIs
+- 🔭 I’m currently working on enterprise software solutions | ASP.NET Core | Banking | Integrations.
+- 🌱 I’m currently learning DDD, Software Architecture, Design Patterns, Microservices.
+- 💬 Ask me about" .Net, SQL, RESTful APIs.
 - 📫 How to reach me: LinkedIn! ☝️
-- ⚡ Fun fact: I love 🏐, 📚, 🚴
+- ⚡ Fun fact: I love 🏐, 📚, 🚴.
 
 
 ### 📈 My GitHub Stats:
