@@ -5,7 +5,7 @@
 ### Glad to see you here! 
 Love interacting with the community, share knowledge and learn new things.
 
-## **I'm a Software Engineer | Team Lead **
+## **I'm a Software Engineer | Team Lead**
 
 - 🏢 I currently work at Aspekt.
 - 🔭 I’m currently working on enterprise software solutions | ASP.NET Core | Banking | Integrations.
