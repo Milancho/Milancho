@@ -35,6 +35,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
+<a href="https://www.buymeacoffee.com/USERNAME" target="_blank" rel="noreferrer nofollow"> <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+
+Awesome GitHub Profile README
+https://github.com/abhisheknaiidu/awesome-github-profile-readme#tools
+
+
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+emoji-cheat-sheet
+<a href="https://www.linkedin.com/in/milanchoarsovski"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+
 -->
 
 
