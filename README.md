@@ -10,7 +10,7 @@ Love interacting with the community, share knowledge and learn new things.
 - 🏢 I currently work at Aspekt.
 - 🔭 I’m currently working on Monolith (Modular) Architecture | ASP.NET Core | Banking | Integrations | People Management
 - 🌱 I’m currently learning DDD, Software Architecture, Design Patterns, Microservices.
-- 💬 Ask me about" .Net, SQL, RESTful APIs.
+- 💬 Ask me about: .Net | SQL | RESTful APIs | Redis | RabbitMQ | Worker Services | SignalR.
 - 📫 How to reach me: LinkedIn! ☝️
 - ⚡ Fun fact: I love 🏐, 📚, 🚴.
 
