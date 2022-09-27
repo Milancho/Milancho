@@ -1,6 +1,7 @@
 ## Hi there, I'm Milancho Arsovski! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=milanch&color=blue)</div>
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/milanchoarsovski/)
+<a href="https://www.buymeacoffee.com/milanco" target="_blank" rel="noreferrer nofollow"> <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 
 ### Glad to see you here! 
 Love interacting with the community, share knowledge and learn new things.
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
-<a href="https://www.buymeacoffee.com/USERNAME" target="_blank" rel="noreferrer nofollow"> <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+
 
 Awesome GitHub Profile README
 https://github.com/abhisheknaiidu/awesome-github-profile-readme#tools
