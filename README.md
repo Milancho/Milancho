@@ -1,7 +1,8 @@
 ## Hi there, I'm Milancho Arsovski! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=milanch&color=blue)</div>
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/milanchoarsovski/)
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]([https://www.buymeacoffee.com/gbraad](https://www.buymeacoffee.com/milanco))
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/milanco)
+
 
 ### Glad to see you here! 
 Love interacting with the community, share knowledge and learn new things.
